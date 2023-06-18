@@ -1,0 +1,3 @@
+from .decomposition_test import TestDecompositionValid, TestDecompositionEquivalence
+from .optimization_test import TestOptimization
+from .routing_test import TestRoutingEquivalence, TestRoutingValid
